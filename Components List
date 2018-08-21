@@ -1,0 +1,7 @@
+2x Microcontroller Texas Instruments LaunchPad MSP430G2553
+1x Joystick Module
+1x 4x4 RC Cart Chassis
+1x Bluetooth Module HC-05 to work as a master
+1x Bluetooth Modlue HC-06 to work as a slave (you can use a HC-05 but you need to set him to slave because he is master by default)
+1x SparkFun Motor Driver - Dual TB6612FNG
+Some jump wires
