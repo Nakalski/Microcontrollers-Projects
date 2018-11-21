@@ -1,4 +1,5 @@
-/* Stopwatch */
+/* Stopwatch, for minutes, seconds, decimal of a second, and centesimal of a second, and you can pause by pressing
+the P1.3 of the lauchpad.*/
 
 #include <msp430.h> 
 
