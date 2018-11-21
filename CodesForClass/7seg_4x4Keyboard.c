@@ -1,3 +1,6 @@
+/* Exibit on a 7seg. display the value that was pressed on a 4x4 matrix keyboard, if you pressed '*' the display turns ON/OFF,
+and '#' makes the display blink.*/
+
 #include <msp430.h>
 #define     CONFIG_WT (WDTPW + WDTTMSEL + WDTCNTCL + WDTIS1)
 //DEFINE DA TELA
